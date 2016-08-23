@@ -15,3 +15,9 @@
 #### 使用ツール(開発時)
 + slack
 + GitHub
+
+### キーワード
++ JSON
++ ATOM
++ KVM
++ Scrum
