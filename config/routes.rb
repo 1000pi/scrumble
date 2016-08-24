@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'account/login'
+
   get 'content/pbl'
 
   get 'content/sbl'
